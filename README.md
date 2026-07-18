@@ -102,3 +102,6 @@ Resultados esperados:
 - [Documentación de Scikit-learn](https://scikit-learn.org/stable/)
 - [Guía básica de Markdown](https://www.markdownguide.org/basic-syntax/)
 
+# Métricas del modelo logístico
+
+El modelo de clasificación se evalúa mediante las siguientes métricas:
