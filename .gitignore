@@ -1,0 +1,13 @@
+# Entornos virtuales de Python
+.venv/
+
+# Datos generados por el sistema
+data/processed/
+
+# Modelos generados por el sistema
+*.pkl
+
+# Datos de usuario de Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__
+

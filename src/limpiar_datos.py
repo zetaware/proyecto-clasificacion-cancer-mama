@@ -64,7 +64,7 @@ def guardar_datos_procesados(df_limpio, nombre_archivo="cancer_mama_procesado.cs
 
 
 if __name__ == "__main__":
-    from cargar_datos import cargar_datos
+    from src.cargar_datos import cargar_datos
 
     df_original = cargar_datos()
     df_limpio = preparar_datos(df_original)
